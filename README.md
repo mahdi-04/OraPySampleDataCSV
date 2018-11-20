@@ -11,7 +11,7 @@ Each record consists of one or more fields, separated by commas
 
 ## Usage with Binary Install
 ```sh
-/opt/OraPySampleDataCSV/main { schema-Name }.{ table-Name | view-Name } ~/configFile.ini ~/log/
+/opt/OraPySampleDataCSV/main { schema-Name }.{ table-Name | view-Name } { number-Rows } ~/configFile.ini ~/log/
 ```
 
 ## Usage with python Source
